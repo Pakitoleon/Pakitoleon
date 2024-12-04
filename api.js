@@ -4,10 +4,10 @@
 
 import { AWS_API_URL } from "./constants";
 // Fetches data from GitHub's GraphQL API via custom AWS function
-export async function fetchContributions(username, year) {
+export async function fetchContributions(Pakitoleon, 2024) {
     try {
         const data = await fetch(
-            `${AWS_API_URL}?username=${username}&year=${year}`,
+            `${AWS_API_URL}?username=${Pakitoleon}&year=${2024}`,
         );
         const json = await data.json();
         return json?.user?.contributionsCollection?.contributionCalendar?.weeks; // 🙄
