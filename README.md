@@ -58,12 +58,6 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pakitoleon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![](https://github.com/Pakitoleon/Pakitoleon/blob/master/profile.svg)
-
-  </tr>
-  
-  [![](https://github.com/Pakitoleon/Pakitoleon/blob/master/workflows/snake.yml).  
-
   <tr/>
   </tbody>
 </table>
