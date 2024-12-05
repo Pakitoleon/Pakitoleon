@@ -60,8 +60,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Pakitoleonl001&theme=react-dark&hide_border=true&area=true)
 
-![](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-![](://honzaap.github.io/GithubCity/?name=Pakitoleon&year=2024)
+![](https://github.com/Pakitoleon/Pakitoleon/blob/master/profile.svg)
 
 <br/>
