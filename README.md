@@ -54,12 +54,16 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/Piscina-42-malaga?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/Piscina-42-malaga?style=flat-square&labelColor=343b41"/></td>
     </tr>
+  <tr>
+
+  ![](https://activity-graph.herokuapp.com/graph?username=Pakitoleonl001&theme=react-dark&hide_border=true&area=true).
+
+  ![](https://github.com/Pakitoleon/Pakitoleon/blob/master/profile.svg)
+
+  </tr>
+  
+  ![](https://github.com/Pakitoleon/Pakitoleon/blob/master/workflows/snake.yml).  
+
+  <tr/>
   </tbody>
 </table>
-<br/>
-
-![](https://activity-graph.herokuapp.com/graph?username=Pakitoleonl001&theme=react-dark&hide_border=true&area=true)
-
-![](https://github.com/Pakitoleon/Pakitoleon/blob/master/profile.svg)
-
-<br/>
