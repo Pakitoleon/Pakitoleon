@@ -56,13 +56,13 @@
     </tr>
   <tr>
 
-  ![](https://activity-graph.herokuapp.com/graph?username=Pakitoleonl001&theme=react-dark&hide_border=true&area=true).
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pakitoleon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![](https://github.com/Pakitoleon/Pakitoleon/blob/master/profile.svg)
+  [![](https://github.com/Pakitoleon/Pakitoleon/blob/master/profile.svg)
 
   </tr>
   
-  ![](https://github.com/Pakitoleon/Pakitoleon/blob/master/workflows/snake.yml).  
+  [![](https://github.com/Pakitoleon/Pakitoleon/blob/master/workflows/snake.yml).  
 
   <tr/>
   </tbody>
