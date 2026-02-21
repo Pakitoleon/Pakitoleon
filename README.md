@@ -1,7 +1,5 @@
 # Pakitoleon
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pakitoleon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pakitoleon&theme=tokyonight" alt="mystreak"/>
 <br/>
 <table>
